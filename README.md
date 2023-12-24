@@ -1,3 +1,3 @@
 # banglalang
 
-it's a npm package
+it's a npm package.
